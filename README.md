@@ -14,6 +14,8 @@ This project focuses on analyzing employee attrition trends to uncover key insig
 ---
 
 ## 📊 Dashboard Visuals & Insights
+Dashboard Screenshot ![Screenshot 2025-04-07 034056](https://github.com/user-attachments/assets/351c470c-eb59-426c-9ae0-316d61c45a16)
+
 
 ### 1. 🔍 Attrition by Gender
 - **Insight:** Female employees show slightly higher attrition rates than males.
@@ -53,7 +55,7 @@ This project focuses on analyzing employee attrition trends to uncover key insig
 
 ## 📌 Key Features of the Dashboard
 
-- **Slicers** to filter by department, gender, and job role
+- **Slicers** to filter by department
 - **KPI cards** showing total attrition, attrition rate, and active employees
 - **Bar charts and pie charts** to break down attrition visually
 - **Trend analysis** over tenure and performance
@@ -68,7 +70,7 @@ This HR Attrition Dashboard provides valuable insights into employee turnover, h
 
 ## 📁 Project Files
 
-- `HR_Analytics_dashboard1.pbix` – Power BI Dashboard File  
+- `HR_Analytics_dashboard1.pbix` https://1drv.ms/u/c/44ee9b98ba9a1f65/ERm4orDy2_xNs6UVCIHObjIBN5Xh5Uk1ljM-GbPlH9qc-A?e=fc7fFS – Power BI Dashboard File  
 - `data/` – Raw and cleaned Excel datasets  
 - `README.md` – Project documentation  
 
