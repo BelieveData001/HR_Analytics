@@ -1,6 +1,6 @@
 # 👥 HR Analytics Dashboard – Employee Attrition Analysis
 
-This project focuses on analyzing employee attrition trends to uncover key insights that can support HR decision-making. The goal is to identify patterns based on gender, department, job role, education, performance rating, and years at the company.
+This project focuses on analyzing employee attrition trends to uncover key insights that can support HR decision-making. The goal is to identify patterns based on gender, job level, job role, education, performance rating, and years at the company.
 
 ---
 
@@ -14,7 +14,8 @@ This project focuses on analyzing employee attrition trends to uncover key insig
 ---
 
 ## 📊 Dashboard Visuals & Insights
-Dashboard Screenshot ![Screenshot 2025-04-07 034056](https://github.com/user-attachments/assets/351c470c-eb59-426c-9ae0-316d61c45a16)
+Dashboard Screenshot ![Screenshot 2025-04-08 010554](https://github.com/user-attachments/assets/9d42bd48-f500-49b5-88c3-a37367f49c1e)
+
 
 
 ### 1. 🔍 Attrition by Gender
@@ -24,14 +25,14 @@ Dashboard Screenshot ![Screenshot 2025-04-07 034056](https://github.com/user-att
 ---
 
 ### 2. 🧩 Attrition by Job Role
-- **Insight:** Job roles like *Sales Representatives* and *Laboratory Technicians* exhibit higher turnover.
+- **Insight:** Job roles like *Sales Representatives* and *Research Scientists* exhibit higher turnover.
 - **Recommendation:** Investigate workload, career growth opportunities, and job satisfaction within these roles.
 
 ---
 
-### 3. 🏢 Attrition by Department
-- **Insight:** The *Sales* and *R&D* departments have higher attrition rates.
-- **Recommendation:** Improve internal mobility, provide targeted support or role clarity in high-turnover departments.
+### 3. 🏢 Attrition by Job Level
+- **Insight:** Job level *1* and *2* have higher attrition rates.
+- **Recommendation:** Improve onboarding & early engagement, recognize early talent and conduct exit interviews.
 
 ---
 
@@ -55,9 +56,9 @@ Dashboard Screenshot ![Screenshot 2025-04-07 034056](https://github.com/user-att
 
 ## 📌 Key Features of the Dashboard
 
-- **Slicers** to filter by department
+- **Slicers** to filter by department and Gender
 - **KPI cards** showing total attrition, attrition rate, and active employees
-- **Bar charts and pie charts** to break down attrition visually
+- **Bar charts and Column charts** to break down attrition visually
 - **Trend analysis** over tenure and performance
 
 ---
@@ -70,9 +71,8 @@ This HR Attrition Dashboard provides valuable insights into employee turnover, h
 
 ## 📁 Project Files
 
-- `HR_Analytics_dashboard1.pbix` https://1drv.ms/u/c/44ee9b98ba9a1f65/ERm4orDy2_xNs6UVCIHObjIBN5Xh5Uk1ljM-GbPlH9qc-A?e=fc7fFS – Power BI Dashboard File  
-- `data/` – Raw and cleaned Excel datasets  
-- `README.md` – Project documentation  
+- `HR_Analytics_dashboard1.pbix` https://1drv.ms/u/c/44ee9b98ba9a1f65/ERm4orDy2_xNs6UVCIHObjIBuMBGDU-TzCJ0n4_JI9FSpw?e=5LjmaY – Power BI Dashboard File  
+- `data/` ( https://1drv.ms/x/c/44ee9b98ba9a1f65/EftZqhyNsjtKtAMLWhYtCzsBjSWW9I4134vI00_KuYBiOg?e=ZlQyrX ) – Raw and ( https://1drv.ms/x/c/44ee9b98ba9a1f65/EecqlCUCmOBElFplnl4z9MkBFbKCL2CzclOfA9WZYTzc1A?e=rC10cY ) cleaned datasets.    
 
 ---
 
