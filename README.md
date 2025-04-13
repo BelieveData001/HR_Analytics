@@ -8,7 +8,7 @@ This project focuses on analyzing employee attrition trends to uncover key insig
 
 - **Excel** – Data cleaning and initial exploration  
 - **Power Query** – Data transformation and shaping  
-- **Power BI** – Interactive dashboard creation, data modeling, and visualization
+- **Power BI** – Interactive dashboard creation, and visualization
 - **DAX** – For calculated field
 
 ---
@@ -25,7 +25,7 @@ Dashboard Screenshot ![Screenshot 2025-04-08 010554](https://github.com/user-att
 ---
 
 ### 2. 🧩 Attrition by Job Role
-- **Insight:** Job roles like *Sales Representatives* and *Research Scientists* exhibit higher turnover.
+- **Insight:** Job roles like *Laboratory Technicians* and *Sales Executives* exhibit higher turnover.
 - **Recommendation:** Investigate workload, career growth opportunities, and job satisfaction within these roles.
 
 ---
