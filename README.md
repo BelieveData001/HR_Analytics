@@ -65,14 +65,14 @@ Dashboard Screenshot ![Screenshot 2025-04-08 010554](https://github.com/user-att
 
 ## 🧠 Conclusion
 
-This HR Attrition Dashboard provides valuable insights into employee turnover, helping HR teams take proactive steps to improve retention. Focused efforts on early-career support, gender equity, and role-specific engagement can significantly reduce attrition.
+This HR Analytics Dashboard provides valuable insights into employee attrition, helping HR teams take proactive steps to improve retention. Focused efforts on early-career support, gender equity, and role-specific engagement can significantly reduce attrition.
 
 ---
 
 ## 📁 Project Files
 
-- `HR_Analytics_dashboard1.pbix` https://1drv.ms/u/c/44ee9b98ba9a1f65/ERm4orDy2_xNs6UVCIHObjIBuMBGDU-TzCJ0n4_JI9FSpw?e=5LjmaY – Power BI Dashboard File  
-- `data/` ( https://1drv.ms/x/c/44ee9b98ba9a1f65/EftZqhyNsjtKtAMLWhYtCzsBjSWW9I4134vI00_KuYBiOg?e=ZlQyrX ) – Raw and ( https://1drv.ms/x/c/44ee9b98ba9a1f65/EecqlCUCmOBElFplnl4z9MkBFbKCL2CzclOfA9WZYTzc1A?e=rC10cY ) cleaned datasets.    
+- https://1drv.ms/u/c/44ee9b98ba9a1f65/ERm4orDy2_xNs6UVCIHObjIBuMBGDU-TzCJ0n4_JI9FSpw?e=5LjmaY – Power BI Dashboard File  
+- ( https://1drv.ms/x/c/44ee9b98ba9a1f65/EftZqhyNsjtKtAMLWhYtCzsBjSWW9I4134vI00_KuYBiOg?e=ZlQyrX ) – Raw and ( https://1drv.ms/x/c/44ee9b98ba9a1f65/EecqlCUCmOBElFplnl4z9MkBFbKCL2CzclOfA9WZYTzc1A?e=rC10cY ) cleaned datasets.    
 
 ---
 
