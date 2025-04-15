@@ -78,7 +78,7 @@ This HR Analytics Dashboard provides valuable insights into employee attrition, 
 
 ## 🙋‍♂️ About Me
 
-I'm a junior data analyst with a passion for uncovering actionable insights from data.  
+I'm data analyst with a passion for uncovering actionable insights from data.  
 🔗 GitHub (https://github.com/BelieveData001)  
 🔗 LinkedIn ( linkedin.com/in/ejenavi-believe-okotie-63758333b )  
 
