@@ -71,14 +71,15 @@ This HR Analytics Dashboard provides valuable insights into employee attrition, 
 
 ## 📁 Project Files
 
-- https://1drv.ms/u/c/44ee9b98ba9a1f65/ERm4orDy2_xNs6UVCIHObjIBuMBGDU-TzCJ0n4_JI9FSpw?e=5LjmaY – Power BI Dashboard File  
-- ( https://1drv.ms/x/c/44ee9b98ba9a1f65/EftZqhyNsjtKtAMLWhYtCzsBjSWW9I4134vI00_KuYBiOg?e=ZlQyrX ) – Raw and ( https://1drv.ms/x/c/44ee9b98ba9a1f65/EecqlCUCmOBElFplnl4z9MkBFbKCL2CzclOfA9WZYTzc1A?e=rC10cY ) cleaned datasets.    
+- [Power BI Dashboard File](https://1drv.ms/u/c/44ee9b98ba9a1f65/ERm4orDy2_xNs6UVCIHObjIBuMBGDU-TzCJ0n4_JI9FSpw?e=5LjmaY) 
+- [Raw Dataset]( https://1drv.ms/x/c/44ee9b98ba9a1f65/EftZqhyNsjtKtAMLWhYtCzsBjSWW9I4134vI00_KuYBiOg?e=ZlQyrX )
+- [Clean datasets]( https://1drv.ms/x/c/44ee9b98ba9a1f65/EecqlCUCmOBElFplnl4z9MkBFbKCL2CzclOfA9WZYTzc1A?e=rC10cY )
 
 ---
 
 ## 🙋‍♂️ About Me
 
 I'm data analyst with a passion for uncovering actionable insights from data.  
-🔗 GitHub (https://github.com/BelieveData001)  
-🔗 LinkedIn ( linkedin.com/in/ejenavi-believe-okotie-63758333b )  
+🔗 [GitHub](https://github.com/BelieveData001)  
+🔗 [LinkedIn]( linkedin.com/in/ejenavi-believe-okotie-63758333b )  
 
